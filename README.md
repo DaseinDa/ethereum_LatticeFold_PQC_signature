@@ -1,13 +1,13 @@
-*Ethereum simulation platform in Rust*
+**
 The project is designed and running for PQC based on Lattice Fold and simulate in Etherrum environment.
 The overall structure is forked from "ethers-rs" project.
 
 The LatticeFold module is under ethers-signers/src/
 The PQC crypt module is under ethers-signers/src/
-We would remodify the signers coding to establish the LatticeFold PQC aggregation signature, and simulate in the project.
+We would remodify the signers coding to establish the LatticeFold PQC aggregation signature, and simulate in the project.**
 
 
-# <h1 align="center"> ethereum LatticeFold_PQC signature </h1>
+# <h1 align="center"> ethereum LatticeFold PQC signature </h1>
 
 **A complete Ethereum and Celo Rust library**
 
