@@ -1,0 +1,6 @@
+[submodule "latticefold"]
+	path = latticefold
+	url = https://github.com/NethermindEth/latticefold
+[submodule "pqcrypto"]
+	path = pqcrypto
+	url = https://github.com/rustpq/pqcrypto.git
