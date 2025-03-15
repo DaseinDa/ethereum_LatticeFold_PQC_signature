@@ -1,4 +1,4 @@
-**
+
 The project is designed and running for PQC based on Lattice Fold and simulate in Etherrum environment.
 The overall structure is forked from "ethers-rs" project.
 
@@ -8,7 +8,9 @@ The overall structure is forked from "ethers-rs" project.
 ```The PQC crypt module is under ethers-signers/src/```
 
 
-We would remodify the signers coding to establish the LatticeFold PQC aggregation signature, and simulate in the project.**
+We would remodify the signers coding to establish the LatticeFold PQC aggregation signature, and simulate in the project.
+
+**The research project and paper for academic 2025 Ethereum would be posted here.**
 
 
 # <h1 align="center"> ethereum LatticeFold PQC signature </h1>
