@@ -1,7 +1,6 @@
 #Ethereum simulation platform in Rust#
 The project would design and run PQC based on Lattice Fold and simulate in Etherrum environment.
-
-
+The overall structure is forked from "ethers-rs" project.
 
 
 
